@@ -35,5 +35,3 @@ This project is a collection of learning resources aimed at helping learners bet
 Thank you for your attention and support for this project!
 
 --- 
-
-如果你需要进一步的修改，请告诉我！
