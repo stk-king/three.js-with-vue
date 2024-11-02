@@ -3,6 +3,8 @@
 
 <h1 style="text-align: center;color: #fd0000">three.js + vue3 Learning Case</h1>
 
+## 在线预览：<a href="http://three.ailxy.icu/"></a>
+
 ## 1. Environment and Initialization
 ```
 node: 20.14.0
