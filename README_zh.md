@@ -3,6 +3,8 @@
 
 <h1 style="text-align: center;color: #fd0000">three.js + vue3 学习案例</h1>
 
+## 在线预览：<http://three.ailxy.icu/>
+
 ## 1.环境及初始化
 ```
 node:20.14.0
